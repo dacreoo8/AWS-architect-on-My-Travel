@@ -1,0 +1,13 @@
+In task 1, we designed the architecture for a website application, “MyTravel”, running 
+on AWS cloud. This is our own private website page that share your travel blog. The application 
+needs to meet the following requirements:
+
+* “MyTravel” website page is public which should be accessible globally with low latency and 
+high availability.
+
+* You will regularly upload your travel pictures and words on this website. 
+
+* All data (pictures and text) should be automatically backed up in case of disaster.
+
+* A congratulatory email will be sent to you when the total number of website visits exceeds 
+1,000,000.
